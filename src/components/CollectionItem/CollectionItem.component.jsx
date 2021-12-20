@@ -1,6 +1,6 @@
 import React from "react"
 import './CollectionItem.style.scss'
-const CollectionItem=({name,price,imageUrl})=>{
+const CollectionItem=({id,name,price,imageUrl})=>{
 
     return (
         <>
